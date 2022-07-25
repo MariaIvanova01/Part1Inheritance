@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a7b8471-9435-4475-8ce8-0d6af1ea24eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Part1Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1Inheritance/Puppy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
